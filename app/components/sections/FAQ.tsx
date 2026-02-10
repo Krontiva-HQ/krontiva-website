@@ -26,11 +26,6 @@ const faqs = [
     answer: "To get started, fill out the inquiry form on our contact form, through which a member of our team will guide you through shared understanding and needs assessment."
   },
   {
-    id: 5,
-    question: "What services does Krontiva Africa offer?",
-    answer: "Krontiva Africa offers a range of digital transformation services including customer engagement solutions, financial transformation, operational efficiency improvements, and workforce development tools. Our flagship products include EngageEase for event management, Delika for food delivery, and Tickrfly for ticketing solutions."
-  },
-  {
     id: 6,
     question: "Does Krontiva Africa provide customized solutions?",
     answer: "Yes, we tailor Krontiva solutions to meet specific needs. Our team closely works with clients to design strategies and tools that align with their goals."
@@ -89,11 +84,6 @@ const faqs = [
     id: 17,
     question: "How secure are your solutions?",
     answer: "We prioritize the security of client data. All Krontiva products and solutions are designed with robust security features to protect information."
-  },
-  {
-    id: 18,
-    question: "Can you assist with reconciliation and financial tracking?",
-    answer: "Yes, our financial reconciliation services include products like ManuPro and Delika, which help streamline accounting and financial management for businesses of all sizes."
   },
   {
     id: 19,
