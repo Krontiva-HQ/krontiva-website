@@ -114,7 +114,7 @@ export default function NewsPage() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl">
               Stay informed about the latest developments in technology, business transformation, 
-              and industry insights through our curated articles and analysis.
+              and industry insights through our curated articles.
             </p>
           </motion.div>
 
