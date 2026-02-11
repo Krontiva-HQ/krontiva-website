@@ -168,8 +168,8 @@ export default function MainHero() {
               transition={{ duration: 0.5, delay: 0.7 }}
               className="absolute -left-8 bottom-1/4 bg-green-500 p-6 rounded-xl shadow-xl text-white"
             >
-              <div className="text-2xl font-bold mb-1">500+</div>
-              <div className="text-sm opacity-90">Enterprise Clients</div>
+              <div className="text-2xl font-bold mb-1">50+</div>
+              <div className="text-sm opacity-90">Enterprise clients</div>
             </motion.div>
           </motion.div>
         </div>
