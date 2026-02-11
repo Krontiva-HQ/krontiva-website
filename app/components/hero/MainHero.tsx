@@ -50,7 +50,7 @@ export default function MainHero() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
               </span>
               <span className="text-sm text-white/80 font-medium">
-              Empowering businesses.
+              Trusted by leading enterprises
               </span>
             </motion.div>
 
@@ -61,9 +61,9 @@ export default function MainHero() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-5xl sm:text-6xl lg:text-7xl font-display font-bold text-white mb-8"
             >
-              We&apos;re an industry
+              Enterprise transformation at
               <span className="block mt-2 text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-green-600">
-                leading transformation company
+                scale and speed
               </span>
             </motion.h1>
 
@@ -74,7 +74,7 @@ export default function MainHero() {
               transition={{ duration: 0.5, delay: 0.3 }}
               className="text-xl text-white/70 max-w-lg mb-12"
             >
-              Drive your business confidently into the future.
+              Accelerate digital transformation across your organization with proven strategies designed for enterprise complexity and scale.
             </motion.p>
 
             {/* CTAs */}
@@ -89,7 +89,7 @@ export default function MainHero() {
                 className="inline-flex items-center gap-2 bg-green-500 text-white px-8 py-4 rounded-lg 
                 font-medium hover:bg-green-600 transition-all group"
               >
-                Start Your Journey
+                Schedule a Consultation
                 <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
               </Link>
               <Link
@@ -97,7 +97,7 @@ export default function MainHero() {
                 className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm text-white 
                 px-8 py-4 rounded-lg font-medium hover:bg-white/20 transition-all"
               >
-                Learn More
+                View Our Capabilities
               </Link>
             </motion.div>
 
@@ -157,7 +157,7 @@ export default function MainHero() {
             >
               <div className="text-white">
                 <div className="font-display font-bold text-xl md:text-2xl mb-1">Krontiva Africa</div>
-                <div className="text-sm md:text-base text-white/80">Enterprise Solutions</div>
+                <div className="text-sm md:text-base text-white/80">Strategic Transformation Partner</div>
               </div>
             </motion.div>
 
@@ -168,8 +168,8 @@ export default function MainHero() {
               transition={{ duration: 0.5, delay: 0.7 }}
               className="absolute -left-8 bottom-1/4 bg-green-500 p-6 rounded-xl shadow-xl text-white"
             >
-              <div className="text-2xl font-bold mb-1">100%</div>
-              <div className="text-sm opacity-90">Success Rate</div>
+              <div className="text-2xl font-bold mb-1">500+</div>
+              <div className="text-sm opacity-90">Enterprise Clients</div>
             </motion.div>
           </motion.div>
         </div>
