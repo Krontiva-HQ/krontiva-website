@@ -3,6 +3,7 @@ const nextConfig = {
   images: {
     domains: ['api-server.krontiva.africa'],
   },
+  turbopack: {},
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,
